@@ -29,4 +29,6 @@ I'm always eager to collaborate on innovative projects and discuss emerging tech
 
 ---
 
-*“Striving to turn data into actionable insights through innovative machine learning solutions.”*
+*“One machine can do the work of fifty ordinary men.  No machine can do the work of one extraordinary man.”*
+
+*- Elbert Hubbard*
