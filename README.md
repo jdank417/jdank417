@@ -1,6 +1,6 @@
 # Hi there, I'm Jason Dank! 👋
 
-I'm an aspiring Machine Learning Software Developer pursuing a Computer Science degree with minors in Data Science, Applied Mathematics, Business Analytics, and Computer Networking at Wentworth Institute of Technology. My passion lies in developing innovative solutions that bridge the gap between complex data and actionable insights.
+I'm an aspiring Machine Learning Software Developer pursuing a Computer Science degree with minors in Data Science, Applied Mathematics, Business Analytics, and Computer Networking at Wentworth Institute of Technology. My passion lies in developing innovative solutions that bridge the gap between complex data and actionable insights. I am currently working at Harvard University Information Technology as an Endpoint Systems Engineer
 
 ## 🔭 Featured Projects
 
