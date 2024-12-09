@@ -4,7 +4,7 @@ I'm an aspiring Machine Learning Software Developer pursuing a Computer Science 
 
 ## 🔭 Featured Projects
 
-- **[GraceryBarcodeScanner](https://github.com/jdank417/GraceryBarcodeScanner):** Developed a grocery barcode scanning web application that allows customers of my campus grocery store to more easily access price information. This is done by using an onboard Convolutional Neural network to identify the barcode in the image and Pyzbar to decode it and get the information from either the Excel or SQLite database.
+- **[GraceryBarcodeScanner](https://github.com/jdank417/GroceryBarcodeScanner):** Developed a grocery barcode scanning web application that allows customers of my campus grocery store to more easily access price information. This is done by using an onboard Convolutional Neural network to identify the barcode in the image and Pyzbar to decode it and get the information from either the Excel or SQLite database.
 
 - **[Remote_Monitering](https://github.com/jdank417/Remote_Monitering):** Created a solution for remotely monitoring system information using Python, Flask, and PowerShell. The application displays real-time system metrics gathered from remote machines.
 
