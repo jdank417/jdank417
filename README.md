@@ -32,3 +32,7 @@ I'm always eager to collaborate on innovative projects and discuss emerging tech
 *“One machine can do the work of fifty ordinary men.  No machine can do the work of one extraordinary man.”*
 
 *- Elbert Hubbard*
+
+*"Success is uncertain, but entertainment is guaranteed!"*
+
+*- Elon Musk*
