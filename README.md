@@ -35,6 +35,12 @@ I'm always eager to collaborate on innovative projects and discuss emerging tech
 
 ---
 
+*"We choose to do these things not because they are easy, but because they are hard."*
+
+*- President John F. Kennedy*
+
+---
+
 *"Success is uncertain, but entertainment is guaranteed!"*
 
 *- Elon Musk*
