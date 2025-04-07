@@ -14,9 +14,9 @@ I'm an aspiring Machine Learning Software Developer pursuing a Computer Science 
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages:** Python, Java, C, C++, Powershell, Linux Bash, SQLite  
+- **Programming Languages:** Python, Java, C, C++, Powershell, Linux Bash, Swift, SQLite  
 - **Machine Learning & Data Analysis:** TensorFlow, Keras, scikit-learn, Pandas, NumPy
-- **Web Development:** Flask, HTML, CSS
+- **Web Development:** Flask, HTML, CSS, JS
 - **Tools & Platforms:** Git, Docker, Jupyter Notebooks
 
 ## 📫 Let's Connect
